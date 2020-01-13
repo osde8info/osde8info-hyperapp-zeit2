@@ -22,7 +22,7 @@ const Button = ({ className, label, update, disabled }) => (
 
 const view = (state, actions) => (
     <div class="counter">
-        <h1>Welcome to HyperApp!</h1>
+        <h1>ZZZZZZ to HyperApp!</h1>
         <hr class="line-break" />
         <section>
             {Button({ className: 'add', label: '+', update: actions.add })}
